@@ -1,0 +1,2 @@
+lastdir=`pwd`
+echo ${lastdir#${HOME}} > ~/.lastdir

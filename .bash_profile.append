@@ -1,0 +1,2 @@
+# return to the last directory
+cd ${HOME}`cat ~/.lastdir`
