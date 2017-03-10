@@ -16,3 +16,7 @@ You come back into the same folder, and the same saved environment.
 | make help      | this help       |
 | make install   | add the lastdir function to your Bash configuration files. |
 | make uninstall | remove the lastdir function from your bash files. |
+
+## Tested environment
+[cygwin](https://www.cygwin.com) bash
+[debian](https://www.debian.org) bash
