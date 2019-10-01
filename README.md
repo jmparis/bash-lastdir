@@ -1,5 +1,5 @@
-# bash-lastdir
-Auto cd to your last directory, from your previous session.
+# lastdir
+Auto cd to your previous session last directory.
 
 You can combine this fonction, with a Cloud storage, like Dropbox.
 For example you can save all your Bash configuration files in your Dropbox.
