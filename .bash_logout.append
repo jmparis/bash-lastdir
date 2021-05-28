@@ -1,6 +1,6 @@
 # BEGIN lastdir
 
-# retrieve current fodler's path
+# retrieve current folder's path
 lastdir=`pwd`
 
 # substract the HOME directory path from current path
